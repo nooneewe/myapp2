@@ -1,0 +1,9 @@
+batch_size: 64
+width: 128
+height: 64
+max_text_length: 5
+model_path: light_crnn_exported.onnx
+learning_rate: 0.001
+train_workers: 0
+train_epochs: 70
+vocab: J8TRPY3EF45NKGZD7M2HUXCAW69QVBS
