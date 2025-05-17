@@ -2,6 +2,7 @@ fastapi
 uvicorn
 numpy
 onnxruntime
+onnx
 opencv-python-headless
 pillow
 pydantic
